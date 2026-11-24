@@ -279,3 +279,17 @@ public class Project {
         }
     }
 }
+
+///===== Simple Inventory Tracker =====
+// 1. Add item
+// 2. Display items
+// 3. Search item
+// 4. Sell item
+// 5. Low stock report
+// 6. Sort by quantity
+// 7. Exit
+// Enter choice: 1
+// Name: Notebook
+// Quantity: 50
+// Price: 40
+// Item added. I101 | Notebook | Qty: 50 | 40
